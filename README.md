@@ -3,7 +3,7 @@
 # Volcán Chaitén 2008
 La erupción del Volcán Chaitén ell 2 de mayo del año 2008 fue un evento histórico nacional, no solo científicamente sino que también en el ámbito social. Esta cambiaría la vida de 5mil personas y cientas de especies de flora y fauna que habitaban el sector. Tras el fenómeno siguieron días de lluvia y caída de cenizas que desbordaron el Río Blanco el cual ascendió a 1,5 metros de su cauce habitual. Finalmente desencadenando la evacuación total de los habitantes de Chaitén y el gobierno declarando que nadie puede vivir ahí. 
 
-Queremos examinar el impacto de la erupción tanto en la vida de los habitantes y su obligación a abandonar su hogar, como el impacto en los bosques de la zona.
+Queremos examinar el impacto de la erupción tanto en la vida de los habitantes y su obligación a abandonar su hogar, como el impacto en los bosques de la zona..
 
 # Tipo de erupción que tienen
 “Algo debió provocar la erupción para que pasara tan de repente. Una de las razones por las que un volcán no avisa pueden ser las propiedades físicas del magma que, en este caso era suficientemente fluido y flotante para elevarse rápido. Pero en la actualidad, no hay suficientes datos para probar la hipótesis del magma, de un acontecimiento sísmico o la interacción de un magma con otro”, revela a SINC Jonathan Castro, autor principal del estudio e investigador en el Instituto de Ciencias de la Tierra de Orleans (Francia). https://www.agenciasinc.es/Noticias/El-volcan-chileno-Chaiten-entro-en-erupcion-sin-previo-aviso-por-el-rapido-ascenso-del-magma
